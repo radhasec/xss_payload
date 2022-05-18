@@ -31,4 +31,3 @@ Check Out Payload List No.6
 [LINK](https://aacle.github.io/xss_payload/xssProjects)
 
 
-Refrence https://xss.js.org
