@@ -1,6 +1,6 @@
 # xss_payloads
 
-## 1.xss Payload 
+<!--## 1.xss Payload 
 
 Check Out Payload List No.1
 [LINK](https://aacle.github.io/xss_payload/xss01_Payload)
@@ -31,3 +31,4 @@ Check Out Payload List No.6
 [LINK](https://aacle.github.io/xss_payload/xssProjects)
 
 
+-->
