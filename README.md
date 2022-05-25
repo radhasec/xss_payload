@@ -1,5 +1,9 @@
 # 8000+ xss_payloads
 
+Curated by : Abhishek Meena (aacle_)
+
+Credit : All the Bug Bounty Hunters
+
 <!--## 1.xss Payload 
 
 Check Out Payload List No.1
